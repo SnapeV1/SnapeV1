@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Meet SnapeV1 , a 21-year-old student who spends most of his day in front of a computer screen. <br>He has always been fascinated with technology and enjoys exploring its various aspects, particularly coding and cybersecurity. <br>SnapeV1's passion for coding started when he was in middle school, and since then, he has spent countless hours learning various programming languages and developing his skills in this field<br>In addition to his love for coding, He is also a cybersecurity enthusiast. <br>He is always on the lookout for new ways to improve his knowledge in this area and keep himself up-to-date with the latest developments in the field.
+🔭Meet SnapeV1 , a 22-year-old student who spends most of his day in front of a computer screen. <br>He has always been fascinated with technology and enjoys exploring its various aspects, particularly coding and cybersecurity. <br>SnapeV1's passion for coding started when he was in middle school, and since then, he has spent countless hours learning various programming languages and developing his skills in this field<br>In addition to his love for coding, He is also a cybersecurity enthusiast. <br>He is always on the lookout for new ways to improve his knowledge in this area and keep himself up-to-date with the latest developments in the field.
 
 
 ## 🌐 Socials:
